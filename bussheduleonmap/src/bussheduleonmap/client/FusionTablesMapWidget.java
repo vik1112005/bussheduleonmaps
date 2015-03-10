@@ -162,7 +162,7 @@ public class FusionTablesMapWidget extends Composite {
         	
         	}
         
-        LatLng latlng = event.getLatLng();
+        LatLng latlng = event.getLatLng();//
 
         Size pixelOffset = event.getPixelOffset();
 
