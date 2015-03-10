@@ -157,8 +157,8 @@ public class FusionTablesMapWidget extends Composite {
         	FitImage fi = new FitImage();
              fi.addFitImageLoadHandler(new OnLoad());
              fi.setFixedWidth((int)(Window.getClientWidth()*0.5));
-             fi.setUrl(infoArr[i]);
-        	vp.add(fi);
+             fi.setUrl(infoArr[i]);//
+        	vp.add(fi);//
         	
         	}
         
