@@ -164,7 +164,7 @@ public class FusionTablesMapWidget extends Composite {
         
         LatLng latlng = event.getLatLng();//
 
-        Size pixelOffset = event.getPixelOffset();
+        Size pixelOffset = event.getPixelOffset();//
 
        final ScrollPanel panel = new ScrollPanel(); 
         panel.add(vp);
