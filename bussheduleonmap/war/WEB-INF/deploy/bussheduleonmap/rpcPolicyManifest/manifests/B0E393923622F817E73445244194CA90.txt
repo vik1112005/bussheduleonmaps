@@ -1,0 +1,2 @@
+serviceClass: bussheduleonmap.client.GreetingService
+path: 2F1DEA6AB278C4B6B3D14BBEB717F684.gwt.rpc
